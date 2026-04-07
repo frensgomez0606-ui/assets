@@ -1,0 +1,11 @@
+{
+  "name": "Fluxora",
+  "website": "",
+  "description": "",
+  "explorer": "https://bscscan.com/token/0x5BCc8D88d8c9e422D4C645f4816eDfb8757AA161",
+  "type": "BEP20",
+  "symbol": "FLX",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x5BCc8D88d8c9e422D4C645f4816eDfb8757AA161"
+}
